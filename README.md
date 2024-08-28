@@ -18,7 +18,7 @@
 
 <p align="left">Code is able to work with small numbers.</p>
 
-<h3 align="left">How to run?:</h3>
+<h3 align="left">How to run?</h3>
 <p align="left"> You have to download all files and compile it in cmd.</p>
 
 
